@@ -23,6 +23,15 @@ True
 ```
 
 布尔数据对象也被用作比较运算符的结果，例如相等（==）和大于（>）。此外，关系运算符和逻辑运算符可以组合在一起形成复杂的逻辑问题。Table 1展示了关系和逻辑运算符，例子如下所示。
+<!-- 
+|Operation Name |Operator |Explanation |
+|---|---|---|
+|less than|<|Less than operator|
+|greater than|>|greater than operator|
+|less than or equal|>=|Less than or equal operator|
+|equal|==|Equal operator|
+-->
+
 
 ![1.8.数据入门.table1](assets/1.8.数据入门.table1.png)
 
